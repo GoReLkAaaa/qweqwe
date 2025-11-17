@@ -51,7 +51,10 @@ table.rows[1].cells[1].text = "23"
 doc.add_picture("photo.jpg")
 
 
-doc.save("report.docx")
+
 
 for paragraph in doc.paragraphs:
     print(paragraph.text)
+
+
+doc.save("report.docx")
