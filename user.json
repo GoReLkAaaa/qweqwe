@@ -1,0 +1,13 @@
+{
+    "name": "Nikita",
+    "age": 30,
+    "skills": [
+        "Python",
+        "Java"
+    ],
+    "languages": {
+        "name": "Russia",
+        "python": "Python",
+        "java": "Java"
+    }
+}
